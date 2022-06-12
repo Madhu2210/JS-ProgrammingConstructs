@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\MaxMin.js"
+            "program": "${workspaceFolder}\\LeapYear.js"
         }
     ]
 }
