@@ -19,7 +19,7 @@ if(num == 1){
 }else if(num == 9){
     console.log("Nine")
 }else if(num == 0){
-    console.log("Zerro")
+    console.log("Zeero")
 }else{
     console.log("Invalid Value")
 }
